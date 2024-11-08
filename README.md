@@ -1,1 +1,1 @@
-12112
+Simple langgraph frontend app 
